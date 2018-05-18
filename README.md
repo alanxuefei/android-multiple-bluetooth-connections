@@ -6,4 +6,4 @@ This code is designed to communicate with three bluetooth Classic devices using 
 
 **Bluetooth Low Engery** <br />
 Please refer to BluetoothLeGatt from Offical Android. After reading the tutorial, the multiple BLE connections can be achieved by storing all the BLE connections. <br />
-I achieved the multiply BLE connections using Andorid phone and Bluefruit LE Micro Arduino Boards (Adafruit website). The codes are not inclued in this repository. I will upload it once I have time. :) so busy right now.
+I achieved the multiply BLE connections using Andorid phone and Bluefruit LE Micro Arduino Boards (Adafruit website). 
